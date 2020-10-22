@@ -1,0 +1,34 @@
+.message{
+    padding: 5px !important;
+    margin: 10px !important;
+    width: fit-content !important;
+}
+.message__userDiv{
+    margin-left:auto !important;
+    color: white !important;
+    text-align: left !important;
+}
+.message__User{
+    background-color: rgb(0, 153, 255) !important;
+}
+
+.message__Guest{
+    background-color: #f1f0f0 !important;
+}
+
+.message__pop{
+    border-radius:1.3em !important;
+
+}
+.message__content{
+    padding-bottom: 16px !important;
+}
+.message__textUser{
+    color: #fff !important;
+}
+.message__textGuest{
+    color: #000 !important;
+}
+small{
+    display: block;
+}
